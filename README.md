@@ -1,1 +1,1 @@
-# 24_7B_WINF
+# Repository für Informatik 7B - 2024/25
